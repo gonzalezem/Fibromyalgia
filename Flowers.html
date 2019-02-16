@@ -145,8 +145,8 @@
         if (currentCodeFlower) currentCodeFlower.cleanup();
         // adapt layout size to the total number of elements
         var total = countElements(json);
-        w = parseInt(Math.sqrt(total) * 40, 10);
-        h = parseInt(Math.sqrt(total) * 40, 10);
+        w = parseInt(Math.sqrt(total) * 25, 10);
+        h = parseInt(Math.sqrt(total) * 25, 10);
         // create a new CodeFlower
         currentCodeFlower = new CodeFlower("#visualization", w, h).update(json);
       };
