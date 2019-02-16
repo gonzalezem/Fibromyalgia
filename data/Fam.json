@@ -1,0 +1,413 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Collinsella_intestinalis_1",
+                                  "size": 958
+                                }
+                              ],
+                              "color": "#aa4465",
+                              "name": "Collinsella_intestinalis",
+                              "size": 958
+                            }
+                          ],
+                          "color": "#aa4465",
+                          "name": "Collinsella",
+                          "size": 958
+                        }
+                      ],
+                      "color": "#aa4465",
+                      "name": "Coriobacteriaceae",
+                      "size": 958
+                    }
+                  ],
+                  "color": "#aa4465",
+                  "name": "Coriobacteriales",
+                  "size": 958
+                }
+              ],
+              "color": "#aa4465",
+              "name": "Actinobacteria",
+              "size": 958
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_42",
+                                  "size": 525
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_78",
+                                  "size": 1565
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides",
+                              "size": 2090
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_stercoris_3",
+                                  "size": 1089
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_stercoris",
+                              "size": 1089
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Bacteroides",
+                          "size": 3179
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Bacteroidaceae",
+                      "size": 3179
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_7",
+                                  "size": 861
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Parabacteroides",
+                              "size": 861
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_goldsteinii_2",
+                                  "size": 1576
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Parabacteroides_goldsteinii",
+                              "size": 1576
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Parabacteroides",
+                          "size": 2437
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Tannerellaceae",
+                      "size": 2437
+                    }
+                  ],
+                  "color": "#f7a49e",
+                  "name": "Bacteroidales",
+                  "size": 5616
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Flavobacteriaceae_1",
+                                  "size": 822
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Flavobacteriaceae",
+                              "size": 822
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Flavobacteriaceae",
+                          "size": 822
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Flavobacteriaceae",
+                      "size": 822
+                    }
+                  ],
+                  "color": "#f7a49e",
+                  "name": "Flavobacteriales",
+                  "size": 822
+                }
+              ],
+              "color": "#f7a49e",
+              "name": "Bacteroidetes",
+              "size": 6438
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Hungatella_hathewayi_3",
+                                  "size": 692
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Hungatella_hathewayi",
+                              "size": 692
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Hungatella",
+                          "size": 692
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Clostridiaceae",
+                      "size": 692
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_133",
+                                  "size": 519
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridiales_MG",
+                              "size": 519
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Clostridiales_MG",
+                          "size": 519
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Clostridiales_MG",
+                      "size": 519
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_21",
+                                  "size": 340
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Lachnospiraceae_MG",
+                              "size": 340
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Lachnospiraceae_MG",
+                          "size": 340
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Lachnospiraceae",
+                      "size": 340
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_49",
+                                  "size": 508
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_26",
+                                  "size": 1344
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Ruminococcaceae",
+                              "size": 1852
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Ruminococcaceae",
+                          "size": 1852
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Ruminococcaceae",
+                      "size": 1852
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Clostridiales",
+                  "size": 3403
+                }
+              ],
+              "color": "#274c77",
+              "name": "Firmicutes",
+              "size": 3403
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_3",
+                                  "size": 1665
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Sutterella",
+                              "size": 1665
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Sutterella",
+                          "size": 1665
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Sutterellaceae",
+                      "size": 1665
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Burkholderiales",
+                  "size": 1665
+                }
+              ],
+              "color": "#452154",
+              "name": "Proteobacteria",
+              "size": 1665
+            }
+          ],
+          "color": "#cdcdcc",
+          "name": "Bacteria",
+          "size": 12464
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_27Unknown",
+                                  "size": 629
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_314",
+                                  "size": 655
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_328",
+                                  "size": 140
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_329",
+                                  "size": 1540
+                                }
+                              ],
+                              "color": "#cdcdcc",
+                              "name": "TrueUnknown",
+                              "size": 2964
+                            }
+                          ],
+                          "color": "#cdcdcc",
+                          "name": "TrueUnknown",
+                          "size": 2964
+                        }
+                      ],
+                      "color": "#cdcdcc",
+                      "name": "TrueUnknown",
+                      "size": 2964
+                    }
+                  ],
+                  "color": "#cdcdcc",
+                  "name": "TrueUnknown",
+                  "size": 2964
+                }
+              ],
+              "color": "#cdcdcc",
+              "name": "TrueUnknown",
+              "size": 2964
+            }
+          ],
+          "color": "#cdcdcc",
+          "name": "TrueUnknown",
+          "size": 2964
+        }
+      ],
+      "color": "#cdcdcc",
+      "name": "Fam",
+      "size": 17
+    }
+  ],
+  "name": "Fam",
+  "size": 17
+}

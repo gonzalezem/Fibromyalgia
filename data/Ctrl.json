@@ -1,0 +1,4138 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Bifidobacterium_adolescentis_2",
+                                  "size": 666
+                                }
+                              ],
+                              "color": "#aa4465",
+                              "name": "Bifidobacterium_adolescentis",
+                              "size": 666
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Bifidobacterium_longum_2",
+                                  "size": 881
+                                }
+                              ],
+                              "color": "#aa4465",
+                              "name": "Bifidobacterium_longum",
+                              "size": 881
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Bifidobacterium_pseudocatenulatum_1",
+                                  "size": 3180
+                                }
+                              ],
+                              "color": "#aa4465",
+                              "name": "Bifidobacterium_pseudocatenulatum",
+                              "size": 3180
+                            }
+                          ],
+                          "color": "#aa4465",
+                          "name": "Bifidobacterium",
+                          "size": 4727
+                        }
+                      ],
+                      "color": "#aa4465",
+                      "name": "Bifidobacteriaceae",
+                      "size": 4727
+                    }
+                  ],
+                  "color": "#aa4465",
+                  "name": "Bifidobacteriales",
+                  "size": 4727
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Coriobacteriaceae_1",
+                                  "size": 3856
+                                },
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Coriobacteriaceae_2",
+                                  "size": 643
+                                }
+                              ],
+                              "color": "#aa4465",
+                              "name": "Coriobacteriaceae",
+                              "size": 4499
+                            }
+                          ],
+                          "color": "#aa4465",
+                          "name": "Coriobacteriaceae",
+                          "size": 4499
+                        }
+                      ],
+                      "color": "#aa4465",
+                      "name": "Coriobacteriaceae",
+                      "size": 4499
+                    }
+                  ],
+                  "color": "#aa4465",
+                  "name": "Coriobacteriales",
+                  "size": 4499
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#aa4465",
+                                  "name": "Eggerthella_lenta_1",
+                                  "size": 998
+                                }
+                              ],
+                              "color": "#aa4465",
+                              "name": "Eggerthella_lenta",
+                              "size": 998
+                            }
+                          ],
+                          "color": "#aa4465",
+                          "name": "Eggerthella",
+                          "size": 998
+                        }
+                      ],
+                      "color": "#aa4465",
+                      "name": "Eggerthellaceae",
+                      "size": 998
+                    }
+                  ],
+                  "color": "#aa4465",
+                  "name": "Eggerthellales",
+                  "size": 998
+                }
+              ],
+              "color": "#aa4465",
+              "name": "Actinobacteria",
+              "size": 10224
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "Bacteria_MF_9",
+                                  "size": 1350
+                                }
+                              ],
+                              "color": "#cdcdcc",
+                              "name": "Bacteria_MF",
+                              "size": 1350
+                            }
+                          ],
+                          "color": "#cdcdcc",
+                          "name": "Bacteria_MF",
+                          "size": 1350
+                        }
+                      ],
+                      "color": "#cdcdcc",
+                      "name": "Bacteria_MF",
+                      "size": 1350
+                    }
+                  ],
+                  "color": "#cdcdcc",
+                  "name": "Bacteria_MF",
+                  "size": 1350
+                }
+              ],
+              "color": "#cdcdcc",
+              "name": "Bacteria_MF",
+              "size": 1350
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "Bacteria_MG_6",
+                                  "size": 2575
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "Bacteria_MG_7",
+                                  "size": 9096
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "Bacteria_MG_2",
+                                  "size": 1513
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "Bacteria_MG_13",
+                                  "size": 686
+                                }
+                              ],
+                              "color": "#cdcdcc",
+                              "name": "Bacteria_MG",
+                              "size": 13870
+                            }
+                          ],
+                          "color": "#cdcdcc",
+                          "name": "Bacteria_MG",
+                          "size": 13870
+                        }
+                      ],
+                      "color": "#cdcdcc",
+                      "name": "Bacteria_MG",
+                      "size": 13870
+                    }
+                  ],
+                  "color": "#cdcdcc",
+                  "name": "Bacteria_MG",
+                  "size": 13870
+                }
+              ],
+              "color": "#cdcdcc",
+              "name": "Bacteria_MG",
+              "size": 13870
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_3Unknown",
+                                  "size": 1444
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_2Unknown",
+                                  "size": 6705
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_16",
+                                  "size": 1057
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_36",
+                                  "size": 4991
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_1Unknown",
+                                  "size": 592
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_29",
+                                  "size": 1110
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_81",
+                                  "size": 2289
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_47",
+                                  "size": 3547
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_28",
+                                  "size": 2073
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_2",
+                                  "size": 1849
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_1",
+                                  "size": 9550
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_13",
+                                  "size": 713
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_53",
+                                  "size": 1594
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_15",
+                                  "size": 1444
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_59",
+                                  "size": 1034
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_72",
+                                  "size": 1191
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_6",
+                                  "size": 886
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides",
+                              "size": 42069
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_acidifaciens_2",
+                                  "size": 1917
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_acidifaciens",
+                              "size": 1917
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_clarus_1",
+                                  "size": 6586
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_clarus",
+                              "size": 6586
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_coprophilus_1",
+                                  "size": 9986
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_coprophilus",
+                              "size": 9986
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_eggerthii_3",
+                                  "size": 2846
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_eggerthii_2",
+                                  "size": 1947
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_eggerthii",
+                              "size": 4793
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_fragilis_3",
+                                  "size": 5877
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_fragilis",
+                              "size": 5877
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_gallinarum_1",
+                                  "size": 449
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_gallinarum",
+                              "size": 449
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_pectinophilus_1",
+                                  "size": 2293
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_pectinophilus",
+                              "size": 2293
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_sartorii_1",
+                                  "size": 763
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_sartorii",
+                              "size": 763
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_thetaiotaomicron_4",
+                                  "size": 4536
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_thetaiotaomicron",
+                              "size": 4536
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_uniformis_3",
+                                  "size": 52914
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroides_uniformis_2",
+                                  "size": 11574
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroides_uniformis",
+                              "size": 64488
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Bacteroides",
+                          "size": 143757
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Bacteroidaceae",
+                      "size": 143757
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_13",
+                                  "size": 1012
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_1Unknown",
+                                  "size": 646
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_4",
+                                  "size": 982
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_16",
+                                  "size": 747
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_11",
+                                  "size": 1910
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_17",
+                                  "size": 563
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_1",
+                                  "size": 1670
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_3",
+                                  "size": 1102
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MF_14",
+                                  "size": 1041
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroidales_MF",
+                              "size": 9673
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Bacteroidales_MF",
+                          "size": 9673
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Bacteroidales_MF",
+                      "size": 9673
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MG_15",
+                                  "size": 1462
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Bacteroidales_MG_6",
+                                  "size": 9652
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Bacteroidales_MG",
+                              "size": 11114
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Bacteroidales_MG",
+                          "size": 11114
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Bacteroidales_MG",
+                      "size": 11114
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Barnesiella_3",
+                                  "size": 3010
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Barnesiella",
+                              "size": 3010
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Barnesiella",
+                          "size": 3010
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Barnesiellaceae",
+                      "size": 3010
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Butyricimonas_virosa_5",
+                                  "size": 826
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Butyricimonas_virosa",
+                              "size": 826
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Butyricimonas",
+                          "size": 826
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Odoribacteraceae",
+                      "size": 826
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alloprevotella_5",
+                                  "size": 461
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alloprevotella_1",
+                                  "size": 5199
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alloprevotella_4",
+                                  "size": 247
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Alloprevotella",
+                              "size": 5907
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Alloprevotella",
+                          "size": 5907
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Paraprevotella_2",
+                                  "size": 1019
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Paraprevotella_3",
+                                  "size": 1333
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Paraprevotella",
+                              "size": 2352
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Paraprevotella_xylaniphila_1",
+                                  "size": 1156
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Paraprevotella_xylaniphila",
+                              "size": 1156
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Paraprevotella",
+                          "size": 3508
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_12",
+                                  "size": 21184
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_4",
+                                  "size": 7191
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_22",
+                                  "size": 1105
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_21",
+                                  "size": 1660
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_1Unknown",
+                                  "size": 1550
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_2Unknown",
+                                  "size": 482
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_19",
+                                  "size": 2029
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_16",
+                                  "size": 462
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_18",
+                                  "size": 373
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_2",
+                                  "size": 941
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_5",
+                                  "size": 4550
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_15",
+                                  "size": 1088
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_6",
+                                  "size": 483
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotella",
+                              "size": 43098
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_MS_1",
+                                  "size": 360
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotella_MS",
+                              "size": 360
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_buccae_1",
+                                  "size": 1280
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotella_buccae",
+                              "size": 1280
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotella_stercorea_1",
+                                  "size": 14497
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotella_stercorea",
+                              "size": 14497
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Prevotella",
+                          "size": 59235
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotellaceae_1",
+                                  "size": 876
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotellaceae",
+                              "size": 876
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Prevotellaceae",
+                          "size": 876
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotellaceae_MG_1",
+                                  "size": 552
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotellaceae_MG",
+                              "size": 552
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Prevotellaceae_MG",
+                          "size": 552
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Prevotellamassilia_timonensis_1",
+                                  "size": 1444
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Prevotellamassilia_timonensis",
+                              "size": 1444
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Prevotellamassilia",
+                          "size": 1444
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Prevotellaceae",
+                      "size": 71522
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alistipes_2",
+                                  "size": 2470
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Alistipes",
+                              "size": 2470
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alistipes_ihumii_1",
+                                  "size": 800
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Alistipes_ihumii",
+                              "size": 800
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alistipes_massiliensis_1",
+                                  "size": 1697
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Alistipes_massiliensis",
+                              "size": 1697
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Alistipes_timonensis_1",
+                                  "size": 4405
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Alistipes_timonensis",
+                              "size": 4405
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Alistipes",
+                          "size": 9372
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Rikenella_microfusus_1",
+                                  "size": 984
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Rikenella_microfusus",
+                              "size": 984
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Rikenella",
+                          "size": 984
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Rikenellaceae_2",
+                                  "size": 1154
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Rikenellaceae_1",
+                                  "size": 1308
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Rikenellaceae_3",
+                                  "size": 2358
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Rikenellaceae",
+                              "size": 4820
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Rikenellaceae",
+                          "size": 4820
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Rikenellaceae_MS_1",
+                                  "size": 8165
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Rikenellaceae_MS",
+                              "size": 8165
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Rikenellaceae_MS",
+                          "size": 8165
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Rikenellaceae",
+                      "size": 23341
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_8",
+                                  "size": 678
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_1",
+                                  "size": 597
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Parabacteroides",
+                              "size": 1275
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_distasonis_5",
+                                  "size": 6077
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_distasonis_6",
+                                  "size": 88
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_distasonis_2",
+                                  "size": 778
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Parabacteroides_distasonis",
+                              "size": 6943
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_goldsteinii_1",
+                                  "size": 3068
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Parabacteroides_goldsteinii",
+                              "size": 3068
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_johnsonii_2",
+                                  "size": 3591
+                                },
+                                {
+                                  "color": "#f7a49e",
+                                  "name": "Parabacteroides_johnsonii_1",
+                                  "size": 4148
+                                }
+                              ],
+                              "color": "#f7a49e",
+                              "name": "Parabacteroides_johnsonii",
+                              "size": 7739
+                            }
+                          ],
+                          "color": "#f7a49e",
+                          "name": "Parabacteroides",
+                          "size": 19025
+                        }
+                      ],
+                      "color": "#f7a49e",
+                      "name": "Tannerellaceae",
+                      "size": 19025
+                    }
+                  ],
+                  "color": "#f7a49e",
+                  "name": "Bacteroidales",
+                  "size": 282268
+                }
+              ],
+              "color": "#f7a49e",
+              "name": "Bacteroidetes",
+              "size": 282268
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#91268f",
+                                  "name": "Elusimicrobium_1",
+                                  "size": 507
+                                }
+                              ],
+                              "color": "#91268f",
+                              "name": "Elusimicrobium",
+                              "size": 507
+                            }
+                          ],
+                          "color": "#91268f",
+                          "name": "Elusimicrobium",
+                          "size": 507
+                        }
+                      ],
+                      "color": "#91268f",
+                      "name": "Elusimicrobiaceae",
+                      "size": 507
+                    }
+                  ],
+                  "color": "#91268f",
+                  "name": "Elusimicrobiales",
+                  "size": 507
+                }
+              ],
+              "color": "#91268f",
+              "name": "Elusimicrobia",
+              "size": 507
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Acidaminococcus_fermentans_1",
+                                  "size": 514
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Acidaminococcus_fermentans",
+                              "size": 514
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Acidaminococcus",
+                          "size": 514
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Phascolarctobacterium_1",
+                                  "size": 1497
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Phascolarctobacterium_3",
+                                  "size": 6606
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Phascolarctobacterium_2",
+                                  "size": 507
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Phascolarctobacterium",
+                              "size": 8610
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Phascolarctobacterium_faecium_1",
+                                  "size": 27990
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Phascolarctobacterium_faecium_2",
+                                  "size": 7051
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Phascolarctobacterium_faecium",
+                              "size": 35041
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Phascolarctobacterium",
+                          "size": 43651
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Succiniclasticum_1",
+                                  "size": 3414
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Succiniclasticum",
+                              "size": 3414
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Succiniclasticum",
+                          "size": 3414
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Acidaminococcaceae",
+                      "size": 47579
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Acidaminococcales",
+                  "size": 47579
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Catabacter_2",
+                                  "size": 863
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Catabacter",
+                              "size": 863
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Catabacter",
+                          "size": 863
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Catabacteriaceae",
+                      "size": 863
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Christensenellaceae_2",
+                                  "size": 315
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Christensenellaceae_1Unknown",
+                                  "size": 2395
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Christensenellaceae_8",
+                                  "size": 359
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Christensenellaceae_11",
+                                  "size": 401
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Christensenellaceae",
+                              "size": 3470
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Christensenellaceae",
+                          "size": 3470
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Christensenellaceae",
+                      "size": 3470
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Butyricicoccus_8",
+                                  "size": 336
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Butyricicoccus_7",
+                                  "size": 864
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Butyricicoccus_6",
+                                  "size": 2419
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Butyricicoccus_3",
+                                  "size": 2893
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Butyricicoccus",
+                              "size": 6512
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Butyricicoccus_desmolans_1",
+                                  "size": 606
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Butyricicoccus_desmolans",
+                              "size": 606
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Butyricicoccus",
+                          "size": 7118
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiaceae_MG_1",
+                                  "size": 752
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridiaceae_MG",
+                              "size": 752
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Clostridiaceae_MG",
+                          "size": 752
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridium_27",
+                                  "size": 752
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridium_3Unknown",
+                                  "size": 1136
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridium_13",
+                                  "size": 572
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridium_41",
+                                  "size": 881
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridium",
+                              "size": 3341
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridium_saudii_1",
+                                  "size": 4466
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridium_saudii",
+                              "size": 4466
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Clostridium",
+                          "size": 7807
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Hungatella_hathewayi_1",
+                                  "size": 1257
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Hungatella_hathewayi",
+                              "size": 1257
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Hungatella",
+                          "size": 1257
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Clostridiaceae",
+                      "size": 16934
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_12",
+                                  "size": 828
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_7",
+                                  "size": 3828
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_9",
+                                  "size": 3953
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_11",
+                                  "size": 1421
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_16",
+                                  "size": 872
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridiales",
+                              "size": 10902
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Clostridiales",
+                          "size": 10902
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Colidextribacter_massiliensis_1",
+                                  "size": 603
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Colidextribacter_massiliensis",
+                              "size": 603
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Colidextribacter",
+                          "size": 603
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Eubacterium_1",
+                                  "size": 668
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Eubacterium",
+                              "size": 668
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Eubacterium_coprostanoligenes_1",
+                                  "size": 589
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Eubacterium_coprostanoligenes",
+                              "size": 589
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Eubacterium",
+                          "size": 1257
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Clostridiales",
+                      "size": 12762
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MF_75",
+                                  "size": 352
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MF_7Unknown",
+                                  "size": 505
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridiales_MF",
+                              "size": 857
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Clostridiales_MF",
+                          "size": 857
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Clostridiales_MF",
+                      "size": 857
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_15",
+                                  "size": 15167
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_1Unknown9",
+                                  "size": 963
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_23",
+                                  "size": 281
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_77",
+                                  "size": 2047
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_89",
+                                  "size": 766
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_5",
+                                  "size": 938
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_147",
+                                  "size": 2901
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_117",
+                                  "size": 1365
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_121",
+                                  "size": 479
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_71",
+                                  "size": 2790
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_128",
+                                  "size": 794
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_27",
+                                  "size": 855
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_134",
+                                  "size": 1117
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_65",
+                                  "size": 3500
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_97",
+                                  "size": 552
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_152",
+                                  "size": 693
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_81",
+                                  "size": 1450
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_45",
+                                  "size": 1197
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_1Unknown5",
+                                  "size": 1244
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Clostridiales_MG_17",
+                                  "size": 960
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Clostridiales_MG",
+                              "size": 40059
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Clostridiales_MG",
+                          "size": 40059
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Clostridiales_MG",
+                      "size": 40059
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Agathobacter_1",
+                                  "size": 949
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Agathobacter",
+                              "size": 949
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Agathobacter",
+                          "size": 949
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Anaerostipes_caccae_1",
+                                  "size": 294
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Anaerostipes_caccae",
+                              "size": 294
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Anaerostipes_hadrus_4",
+                                  "size": 786
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Anaerostipes_hadrus",
+                              "size": 786
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Anaerostipes",
+                          "size": 1080
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Blautia_2",
+                                  "size": 992
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Blautia_16",
+                                  "size": 2344
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Blautia_8",
+                                  "size": 380
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Blautia_3",
+                                  "size": 1744
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Blautia",
+                              "size": 5460
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Blautia_glucerasea_1",
+                                  "size": 1202
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Blautia_glucerasea",
+                              "size": 1202
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Blautia",
+                          "size": 6662
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Coprococcus_3",
+                                  "size": 537
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Coprococcus_2",
+                                  "size": 4607
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Coprococcus",
+                              "size": 5144
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Coprococcus_eutactus_1",
+                                  "size": 6474
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Coprococcus_eutactus_2",
+                                  "size": 3731
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Coprococcus_eutactus",
+                              "size": 10205
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Coprococcus",
+                          "size": 15349
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Eisenbergiella_massiliensis_1",
+                                  "size": 963
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Eisenbergiella_massiliensis",
+                              "size": 963
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Eisenbergiella_tayi_1",
+                                  "size": 1254
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Eisenbergiella_tayi",
+                              "size": 1254
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Eisenbergiella",
+                          "size": 2217
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalimonas_umbilicata_1",
+                                  "size": 527
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Faecalimonas_umbilicata",
+                              "size": 527
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Faecalimonas",
+                          "size": 527
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospira_pectinoschiza_1",
+                                  "size": 4782
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Lachnospira_pectinoschiza",
+                              "size": 4782
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Lachnospira",
+                          "size": 4782
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_28",
+                                  "size": 1268
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_32",
+                                  "size": 1317
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_24",
+                                  "size": 1531
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_9",
+                                  "size": 741
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_14",
+                                  "size": 955
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_6",
+                                  "size": 1076
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_19",
+                                  "size": 1833
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiracea_21",
+                                  "size": 3537
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Lachnospiracea",
+                              "size": 12258
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Lachnospiracea",
+                          "size": 12258
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_51",
+                                  "size": 590
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_6",
+                                  "size": 773
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_5Unknown",
+                                  "size": 1619
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_9",
+                                  "size": 1316
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_28",
+                                  "size": 457
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_4",
+                                  "size": 586
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_18",
+                                  "size": 696
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_24",
+                                  "size": 751
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_37",
+                                  "size": 269
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_32",
+                                  "size": 1261
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_3",
+                                  "size": 1227
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_15",
+                                  "size": 1688
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_29",
+                                  "size": 457
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_46",
+                                  "size": 951
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_26",
+                                  "size": 2537
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_36",
+                                  "size": 232
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_45",
+                                  "size": 667
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_56",
+                                  "size": 488
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_52",
+                                  "size": 1117
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Lachnospiraceae",
+                              "size": 17682
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Lachnospiraceae",
+                          "size": 17682
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_6",
+                                  "size": 1337
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_5",
+                                  "size": 780
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_41",
+                                  "size": 3466
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_43",
+                                  "size": 712
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_44",
+                                  "size": 3435
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_11",
+                                  "size": 822
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_97",
+                                  "size": 1129
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_58",
+                                  "size": 1076
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_8",
+                                  "size": 1121
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_16",
+                                  "size": 1638
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_64",
+                                  "size": 376
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_82",
+                                  "size": 1812
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_12",
+                                  "size": 2075
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_7",
+                                  "size": 1854
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_68",
+                                  "size": 708
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_42",
+                                  "size": 1880
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_63",
+                                  "size": 1693
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_29",
+                                  "size": 464
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_7Unknown",
+                                  "size": 376
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Lachnospiraceae_MG_89",
+                                  "size": 518
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Lachnospiraceae_MG",
+                              "size": 27272
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Lachnospiraceae_MG",
+                          "size": 27272
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Roseburia_3",
+                                  "size": 6175
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Roseburia_2",
+                                  "size": 990
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Roseburia_11",
+                                  "size": 1105
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Roseburia_1Unknown",
+                                  "size": 1833
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Roseburia_4",
+                                  "size": 1223
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Roseburia",
+                              "size": 11326
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Roseburia",
+                          "size": 11326
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Sellimonas_intestinalis_1",
+                                  "size": 928
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Sellimonas_intestinalis",
+                              "size": 928
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Sellimonas",
+                          "size": 928
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Lachnospiraceae",
+                      "size": 101032
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Oscillibacter_3",
+                                  "size": 878
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Oscillibacter",
+                              "size": 878
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Oscillibacter",
+                          "size": 878
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Oscillospiraceae",
+                      "size": 878
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Peptococcus_2",
+                                  "size": 734
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Peptococcus_3",
+                                  "size": 602
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Peptococcus",
+                              "size": 1336
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Peptococcus",
+                          "size": 1336
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Peptococcaceae",
+                      "size": 1336
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_12",
+                                  "size": 2316
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_11",
+                                  "size": 3640
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_15",
+                                  "size": 1146
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_9",
+                                  "size": 1526
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_22",
+                                  "size": 660
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_26",
+                                  "size": 1008
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_27",
+                                  "size": 404
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_24",
+                                  "size": 420
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_4",
+                                  "size": 1033
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Faecalibacterium",
+                              "size": 12153
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_prausnitzii_21",
+                                  "size": 3383
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_prausnitzii_22",
+                                  "size": 4730
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_prausnitzii_5",
+                                  "size": 1634
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_prausnitzii_6",
+                                  "size": 7003
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_prausnitzii_7",
+                                  "size": 1579
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalibacterium_prausnitzii_16",
+                                  "size": 409
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Faecalibacterium_prausnitzii",
+                              "size": 18738
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Faecalibacterium",
+                          "size": 30891
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Gemmiger_formicilis_1",
+                                  "size": 11138
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Gemmiger_formicilis",
+                              "size": 11138
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Gemmiger",
+                          "size": 11138
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Negativibacillus_1",
+                                  "size": 1249
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Negativibacillus",
+                              "size": 1249
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Negativibacillus",
+                          "size": 1249
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_32",
+                                  "size": 1483
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_45",
+                                  "size": 703
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_24",
+                                  "size": 1274
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_46",
+                                  "size": 3874
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_18",
+                                  "size": 2868
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_48",
+                                  "size": 1941
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_33",
+                                  "size": 1885
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_51",
+                                  "size": 703
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_56",
+                                  "size": 423
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_58",
+                                  "size": 2651
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_9",
+                                  "size": 811
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_66",
+                                  "size": 1567
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_6",
+                                  "size": 527
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_22",
+                                  "size": 1248
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_53",
+                                  "size": 500
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_39",
+                                  "size": 672
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_21",
+                                  "size": 677
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_27",
+                                  "size": 278
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_31",
+                                  "size": 611
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_6Unknown",
+                                  "size": 1703
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_14",
+                                  "size": 2171
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_42",
+                                  "size": 891
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Ruminococcaceae",
+                              "size": 29461
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Ruminococcaceae",
+                          "size": 29461
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_MG_13",
+                                  "size": 1324
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_MG_4",
+                                  "size": 3386
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcaceae_MG_6",
+                                  "size": 1314
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Ruminococcaceae_MG",
+                              "size": 6024
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Ruminococcaceae_MG",
+                          "size": 6024
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcus_13",
+                                  "size": 969
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcus_6",
+                                  "size": 364
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcus_8",
+                                  "size": 1038
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Ruminococcus",
+                              "size": 2371
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcus_bicirculans_1",
+                                  "size": 6711
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Ruminococcus_bicirculans",
+                              "size": 6711
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Ruminococcus_bromii_1",
+                                  "size": 2603
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Ruminococcus_bromii",
+                              "size": 2603
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Ruminococcus",
+                          "size": 11685
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Subdoligranulum_1",
+                                  "size": 570
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Subdoligranulum",
+                              "size": 570
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Subdoligranulum",
+                          "size": 570
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Ruminococcaceae",
+                      "size": 91018
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Clostridiales",
+                  "size": 269209
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Erysipelotrichaceae_4",
+                                  "size": 989
+                                },
+                                {
+                                  "color": "#274c77",
+                                  "name": "Erysipelotrichaceae_3",
+                                  "size": 769
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Erysipelotrichaceae",
+                              "size": 1758
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Erysipelotrichaceae",
+                          "size": 1758
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Faecalicoccus_pleomorphus_1",
+                                  "size": 322
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Faecalicoccus_pleomorphus",
+                              "size": 322
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Faecalicoccus",
+                          "size": 322
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Turicibacter_1",
+                                  "size": 806
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Turicibacter",
+                              "size": 806
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Turicibacter_sanguinis_2",
+                                  "size": 2262
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Turicibacter_sanguinis",
+                              "size": 2262
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Turicibacter",
+                          "size": 3068
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Erysipelotrichaceae",
+                      "size": 5148
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Erysipelotrichales",
+                  "size": 5148
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Firmicutes_MG_7",
+                                  "size": 804
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Firmicutes_MG",
+                              "size": 804
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Firmicutes_MG",
+                          "size": 804
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Firmicutes_MG",
+                      "size": 804
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Firmicutes_MG",
+                  "size": 804
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Streptococcus_MS_1",
+                                  "size": 1779
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Streptococcus_MS",
+                              "size": 1779
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Streptococcus",
+                          "size": 1779
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Streptococcaceae",
+                      "size": 1779
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Lactobacillales",
+                  "size": 1779
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Megamonas_funiformis_1",
+                                  "size": 7981
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Megamonas_funiformis",
+                              "size": 7981
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Megamonas",
+                          "size": 7981
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Mitsuokella_MS_1",
+                                  "size": 423
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Mitsuokella_MS",
+                              "size": 423
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Mitsuokella",
+                          "size": 423
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Selenomonadaceae",
+                      "size": 8404
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Selenomonadales",
+                  "size": 8404
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Dialister_succinatiphilus_1",
+                                  "size": 4385
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Dialister_succinatiphilus",
+                              "size": 4385
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Dialister",
+                          "size": 4385
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Megasphaera_1",
+                                  "size": 979
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Megasphaera",
+                              "size": 979
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Megasphaera_elsdenii_1",
+                                  "size": 2113
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Megasphaera_elsdenii",
+                              "size": 2113
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#274c77",
+                                  "name": "Megasphaera_indica_1",
+                                  "size": 676
+                                }
+                              ],
+                              "color": "#274c77",
+                              "name": "Megasphaera_indica",
+                              "size": 676
+                            }
+                          ],
+                          "color": "#274c77",
+                          "name": "Megasphaera",
+                          "size": 3768
+                        }
+                      ],
+                      "color": "#274c77",
+                      "name": "Veillonellaceae",
+                      "size": 8153
+                    }
+                  ],
+                  "color": "#274c77",
+                  "name": "Veillonellales",
+                  "size": 8153
+                }
+              ],
+              "color": "#274c77",
+              "name": "Firmicutes",
+              "size": 341076
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#fcbf6e",
+                                  "name": "Fusobacterium_1",
+                                  "size": 2160
+                                }
+                              ],
+                              "color": "#fcbf6e",
+                              "name": "Fusobacterium",
+                              "size": 2160
+                            }
+                          ],
+                          "color": "#fcbf6e",
+                          "name": "Fusobacterium",
+                          "size": 2160
+                        }
+                      ],
+                      "color": "#fcbf6e",
+                      "name": "Fusobacteriaceae",
+                      "size": 2160
+                    }
+                  ],
+                  "color": "#fcbf6e",
+                  "name": "Fusobacteriales",
+                  "size": 2160
+                }
+              ],
+              "color": "#fcbf6e",
+              "name": "Fusobacteria",
+              "size": 2160
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#ede584",
+                                  "name": "Victivallis_2",
+                                  "size": 783
+                                },
+                                {
+                                  "color": "#ede584",
+                                  "name": "Victivallis_3",
+                                  "size": 598
+                                }
+                              ],
+                              "color": "#ede584",
+                              "name": "Victivallis",
+                              "size": 1381
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#ede584",
+                                  "name": "Victivallis_vadensis_1",
+                                  "size": 628
+                                }
+                              ],
+                              "color": "#ede584",
+                              "name": "Victivallis_vadensis",
+                              "size": 628
+                            }
+                          ],
+                          "color": "#ede584",
+                          "name": "Victivallis",
+                          "size": 2009
+                        }
+                      ],
+                      "color": "#ede584",
+                      "name": "Victivallaceae",
+                      "size": 2009
+                    }
+                  ],
+                  "color": "#ede584",
+                  "name": "Victivallales",
+                  "size": 2009
+                }
+              ],
+              "color": "#ede584",
+              "name": "Lentisphaerae",
+              "size": 2009
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Succinivibrio_1",
+                                  "size": 1313
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Succinivibrio",
+                              "size": 1313
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Succinivibrio",
+                          "size": 1313
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Succinivibrionaceae",
+                      "size": 1313
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Aeromonadales",
+                  "size": 1313
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Parasutterella_2",
+                                  "size": 2334
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Parasutterella",
+                              "size": 2334
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Parasutterella",
+                          "size": 2334
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_2",
+                                  "size": 5877
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_7",
+                                  "size": 4404
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_1",
+                                  "size": 947
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_6",
+                                  "size": 1267
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_4",
+                                  "size": 516
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Sutterella",
+                              "size": 13011
+                            },
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Sutterella_massiliensis_1",
+                                  "size": 441
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Sutterella_massiliensis",
+                              "size": 441
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Sutterella",
+                          "size": 13452
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Sutterellaceae",
+                      "size": 15786
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Burkholderiales",
+                  "size": 15786
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Desulfovibrio_legallii_1",
+                                  "size": 1153
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Desulfovibrio_legallii",
+                              "size": 1153
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Desulfovibrio",
+                          "size": 1153
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Desulfovibrionaceae",
+                      "size": 1153
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Desulfovibrionales",
+                  "size": 1153
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Enterobacterales_MS_4",
+                                  "size": 13567
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Enterobacterales_MS_1",
+                                  "size": 1449
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Enterobacterales_MS",
+                              "size": 15016
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Enterobacterales_MS",
+                          "size": 15016
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Enterobacterales_MS",
+                      "size": 15016
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Enterobacteriaceae_MS_1",
+                                  "size": 837
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Enterobacteriaceae_MS",
+                              "size": 837
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Enterobacteriaceae_MS",
+                          "size": 837
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Klebsiella_pneumoniae_1",
+                                  "size": 1822
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Klebsiella_pneumoniae",
+                              "size": 1822
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Klebsiella",
+                          "size": 1822
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Enterobacteriaceae",
+                      "size": 2659
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Enterobacterales",
+                  "size": 17675
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Haemophilus_parainfluenzae_3",
+                                  "size": 1173
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Haemophilus_parainfluenzae_4",
+                                  "size": 79
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Haemophilus_parainfluenzae_1",
+                                  "size": 691
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Haemophilus_parainfluenzae_5",
+                                  "size": 1101
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Haemophilus_parainfluenzae",
+                              "size": 3044
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Haemophilus",
+                          "size": 3044
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Pasteurellaceae",
+                      "size": 3044
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Pasteurellales",
+                  "size": 3044
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#452154",
+                                  "name": "Pseudomonas_MS_1",
+                                  "size": 755
+                                },
+                                {
+                                  "color": "#452154",
+                                  "name": "Pseudomonas_MS_2",
+                                  "size": 506
+                                }
+                              ],
+                              "color": "#452154",
+                              "name": "Pseudomonas_MS",
+                              "size": 1261
+                            }
+                          ],
+                          "color": "#452154",
+                          "name": "Pseudomonas",
+                          "size": 1261
+                        }
+                      ],
+                      "color": "#452154",
+                      "name": "Pseudomonadaceae",
+                      "size": 1261
+                    }
+                  ],
+                  "color": "#452154",
+                  "name": "Pseudomonadales",
+                  "size": 1261
+                }
+              ],
+              "color": "#452154",
+              "name": "Proteobacteria",
+              "size": 40232
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cab2d6",
+                                  "name": "Anaeroplasma_1",
+                                  "size": 4093
+                                }
+                              ],
+                              "color": "#cab2d6",
+                              "name": "Anaeroplasma",
+                              "size": 4093
+                            }
+                          ],
+                          "color": "#cab2d6",
+                          "name": "Anaeroplasma",
+                          "size": 4093
+                        },
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cab2d6",
+                                  "name": "Asteroleplasma_2",
+                                  "size": 3434
+                                }
+                              ],
+                              "color": "#cab2d6",
+                              "name": "Asteroleplasma",
+                              "size": 3434
+                            }
+                          ],
+                          "color": "#cab2d6",
+                          "name": "Asteroleplasma",
+                          "size": 3434
+                        }
+                      ],
+                      "color": "#cab2d6",
+                      "name": "Anaeroplasmataceae",
+                      "size": 7527
+                    }
+                  ],
+                  "color": "#cab2d6",
+                  "name": "Anaeroplasmatales",
+                  "size": 7527
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cab2d6",
+                                  "name": "Izimaplasmatales_1",
+                                  "size": 2350
+                                }
+                              ],
+                              "color": "#cab2d6",
+                              "name": "Izimaplasmatales",
+                              "size": 2350
+                            }
+                          ],
+                          "color": "#cab2d6",
+                          "name": "Izimaplasmatales",
+                          "size": 2350
+                        }
+                      ],
+                      "color": "#cab2d6",
+                      "name": "Izimaplasmatales",
+                      "size": 2350
+                    }
+                  ],
+                  "color": "#cab2d6",
+                  "name": "Izimaplasmatales",
+                  "size": 2350
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cab2d6",
+                                  "name": "Mollicutes_3",
+                                  "size": 1853
+                                },
+                                {
+                                  "color": "#cab2d6",
+                                  "name": "Mollicutes_8",
+                                  "size": 457
+                                }
+                              ],
+                              "color": "#cab2d6",
+                              "name": "Mollicutes",
+                              "size": 2310
+                            }
+                          ],
+                          "color": "#cab2d6",
+                          "name": "Mollicutes",
+                          "size": 2310
+                        }
+                      ],
+                      "color": "#cab2d6",
+                      "name": "Mollicutes",
+                      "size": 2310
+                    }
+                  ],
+                  "color": "#cab2d6",
+                  "name": "Mollicutes",
+                  "size": 2310
+                }
+              ],
+              "color": "#cab2d6",
+              "name": "Tenericutes",
+              "size": 12187
+            }
+          ],
+          "color": "#cdcdcc",
+          "name": "Bacteria",
+          "size": 705883
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#214e34",
+                                  "name": "Streptophyta_MS_1",
+                                  "size": 703
+                                }
+                              ],
+                              "color": "#214e34",
+                              "name": "Streptophyta_MS",
+                              "size": 703
+                            }
+                          ],
+                          "color": "#214e34",
+                          "name": "Streptophyta_MS",
+                          "size": 703
+                        }
+                      ],
+                      "color": "#214e34",
+                      "name": "Streptophyta_MS",
+                      "size": 703
+                    }
+                  ],
+                  "color": "#214e34",
+                  "name": "Streptophyta_MS",
+                  "size": 703
+                }
+              ],
+              "color": "#214e34",
+              "name": "Plantae",
+              "size": 703
+            }
+          ],
+          "color": "#cdcdcc",
+          "name": "Eukaryota",
+          "size": 703
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_12Unknown",
+                                  "size": 1249
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_121",
+                                  "size": 839
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_122",
+                                  "size": 657
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_123",
+                                  "size": 859
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_124",
+                                  "size": 1875
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_125",
+                                  "size": 867
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_126",
+                                  "size": 1330
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_127",
+                                  "size": 694
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_128",
+                                  "size": 974
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_129",
+                                  "size": 2084
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_13Unknown",
+                                  "size": 1427
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_131",
+                                  "size": 1058
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_132",
+                                  "size": 720
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_133",
+                                  "size": 1697
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_134",
+                                  "size": 1234
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_135",
+                                  "size": 1459
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_136",
+                                  "size": 774
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_137",
+                                  "size": 1485
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_138",
+                                  "size": 860
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_139",
+                                  "size": 2003
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_14Unknown",
+                                  "size": 1913
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_141",
+                                  "size": 1257
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_142",
+                                  "size": 1157
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_143",
+                                  "size": 977
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_144",
+                                  "size": 890
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_145",
+                                  "size": 588
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_146",
+                                  "size": 956
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_147",
+                                  "size": 329
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_148",
+                                  "size": 397
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_149",
+                                  "size": 304
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_15Unknown",
+                                  "size": 457
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_151",
+                                  "size": 1069
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_152",
+                                  "size": 2044
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_153",
+                                  "size": 1795
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_154",
+                                  "size": 783
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_155",
+                                  "size": 2442
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_156",
+                                  "size": 600
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_157",
+                                  "size": 1160
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_158",
+                                  "size": 1128
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_159",
+                                  "size": 1295
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_16Unknown",
+                                  "size": 1016
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_161",
+                                  "size": 1315
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_162",
+                                  "size": 1593
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_163",
+                                  "size": 2395
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_21Unknown",
+                                  "size": 567
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_211",
+                                  "size": 905
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_212",
+                                  "size": 1115
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_213",
+                                  "size": 504
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_214",
+                                  "size": 927
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_215",
+                                  "size": 1714
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_216",
+                                  "size": 1325
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_217",
+                                  "size": 427
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_218",
+                                  "size": 216
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_219",
+                                  "size": 665
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_22Unknown",
+                                  "size": 1218
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_221",
+                                  "size": 731
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_222",
+                                  "size": 483
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_223",
+                                  "size": 393
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_224",
+                                  "size": 1624
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_225",
+                                  "size": 1274
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_226",
+                                  "size": 1356
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_227",
+                                  "size": 1843
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_228",
+                                  "size": 836
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_229",
+                                  "size": 1460
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_23Unknown",
+                                  "size": 751
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_231",
+                                  "size": 1120
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_232",
+                                  "size": 950
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_233",
+                                  "size": 1024
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_234",
+                                  "size": 1819
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_235",
+                                  "size": 846
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_236",
+                                  "size": 1388
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_254",
+                                  "size": 704
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_255",
+                                  "size": 1380
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_26Unknown",
+                                  "size": 762
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_261",
+                                  "size": 888
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_262",
+                                  "size": 866
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_275",
+                                  "size": 573
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_276",
+                                  "size": 882
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_277",
+                                  "size": 524
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_278",
+                                  "size": 408
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_279",
+                                  "size": 334
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_28Unknown",
+                                  "size": 7574
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_288",
+                                  "size": 1297
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_289",
+                                  "size": 386
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_29Unknown",
+                                  "size": 1596
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_291",
+                                  "size": 810
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_292",
+                                  "size": 1359
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_293",
+                                  "size": 477
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_294",
+                                  "size": 466
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_295",
+                                  "size": 848
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_296",
+                                  "size": 983
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_297",
+                                  "size": 1184
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_298",
+                                  "size": 311
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_3Unknown2",
+                                  "size": 501
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_3Unknown3",
+                                  "size": 420
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_3Unknown4",
+                                  "size": 1069
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_3Unknown6",
+                                  "size": 1066
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_3Unknown9",
+                                  "size": 1561
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_316",
+                                  "size": 438
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_318",
+                                  "size": 912
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_321",
+                                  "size": 512
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_332",
+                                  "size": 582
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_333",
+                                  "size": 833
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_335",
+                                  "size": 430
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_336",
+                                  "size": 815
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_337",
+                                  "size": 323
+                                },
+                                {
+                                  "color": "#cdcdcc",
+                                  "name": "TrueUnknown_338",
+                                  "size": 932
+                                }
+                              ],
+                              "color": "#cdcdcc",
+                              "name": "TrueUnknown",
+                              "size": 114492
+                            }
+                          ],
+                          "color": "#cdcdcc",
+                          "name": "TrueUnknown",
+                          "size": 114492
+                        }
+                      ],
+                      "color": "#cdcdcc",
+                      "name": "TrueUnknown",
+                      "size": 114492
+                    }
+                  ],
+                  "color": "#cdcdcc",
+                  "name": "TrueUnknown",
+                  "size": 114492
+                }
+              ],
+              "color": "#cdcdcc",
+              "name": "TrueUnknown",
+              "size": 114492
+            }
+          ],
+          "color": "#cdcdcc",
+          "name": "TrueUnknown",
+          "size": 114492
+        }
+      ],
+      "color": "#cdcdcc",
+      "name": "Ctrl",
+      "size": 419
+    }
+  ],
+  "name": "Ctrl",
+  "size": 419
+}
